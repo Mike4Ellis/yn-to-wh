@@ -1,2 +1,2 @@
 # yn-to-wh
-Transform yn-questions into wh-questions using few-shot of LLM
+The project aims to transform yn-questions into wh-questions using few-shot of LLM.
