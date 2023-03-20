@@ -1,0 +1,19 @@
+Original: Is the banana yellow? Yes
+Paraphrase: What color is the banana? Yellow
+###
+Original: Is the apple blue? No
+Paraphrase: What color is the apple? Not blue
+###
+Original: Is the child happy about eating? Yes
+Paraphrase: How does the child feel about eating? Happy
+###
+Original: Is the phone light on? No
+Paraphrase: How is the phone light? Not on
+###
+Original: Is she playing tennis in the rain? Yes
+Paraphrase: What is she playing in the rain? Tennis
+###
+Original: Is the seagull eating? No
+Paraphrase: What is the seagull doing? Not eating
+###
+Original: 
